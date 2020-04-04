@@ -1,0 +1,11 @@
+name: BetterEvents
+main: de.aestis.betterevents.Main
+description: Implements EventManger
+version: 1.0.0
+author: Guerkchen385
+api-version: 1.14
+commands:
+   events:
+      description: Main Command for this Plugin
+      aliases: [ev, jenoevents]
+      permission: betterevents.use
